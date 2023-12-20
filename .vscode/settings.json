@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "backpropagation"
+    ],
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "vscode-notebook-cell"
+        }
+    ]
+}
