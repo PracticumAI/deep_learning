@@ -1,7 +1,7 @@
 # Practicum AI: Deep Learning Foundations
 
 
-![Practicum AI Logo image](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/logo/PracticumAI_logo_500x100.png?raw=true) <img src='https://github.com/PracticumAI/deep_learning/blob/main/images/deep_learning_foundations.png?raw=true' align='right' width=100>
+![Practicum AI Logo image](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/logo/PracticumAI_logo_500x100.png?raw=true) <img src='images/practicumai_deep_learning.png' alt='Practicum AI: Deep Learning Foundations course badge' align='right' width=100>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PracticumAI/deep_learning)
 
