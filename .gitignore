@@ -132,3 +132,4 @@ dmypy.json
 .vscode/
 bee_vs_wasp.tar.gz
 data/
+*.mp3
