@@ -132,4 +132,7 @@ dmypy.json
 .vscode/
 bee_vs_wasp.tar.gz
 data/
+
+# From running notebooks
 *.mp3
+lightning_logs/
