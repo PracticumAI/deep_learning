@@ -1,7 +1,13 @@
 # Practicum AI: Deep Learning Foundations
 
-
 ![Practicum AI Logo image](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/logo/PracticumAI_logo_500x100.png?raw=true) <img src='images/practicumai_deep_learning.png' alt='Practicum AI: Deep Learning Foundations course badge' align='right' width=100>
+
+
+<img src='images/note_icon.svg' alt="Note icon" width=50 align=left><img src='images/Pt_PTL_logo.png' alt="PyTorch and Lightning logo" width=300 align=right> <b>NOTE:</b> This version of the notebooks uses PyTorch and PyTorch Lightning.
+<br><br>
+Please see [this repository for the **TensorFlow** version](https://github.com/PracticumAI/deep_learning).
+<br><br><br>
+---
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PracticumAI/deep_learning)
 
