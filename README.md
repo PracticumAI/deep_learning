@@ -9,7 +9,7 @@ Please see [this repository for the **TensorFlow** version](https://github.com/P
 <br><br><br>
 ---
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PracticumAI/deep_learning)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PracticumAI/deep_learning_pt-lightning)
 
 ## Module 1: Neural Network Basics Objectives
 
@@ -24,6 +24,7 @@ By the end of this module, you will be able to:
 
 * Presentation [01_neural_network_basics.pdf](presentations/01_neural_network_basics.pdf)
 * [Handout](handouts/01_neural_network_basics.pdf)
+* [00_kernel_setup.ipynb](00_kernel_setup.ipynb) Gets the environment set up on your system.
 * [01_deep_learning_tour.ipynb](01_deep_learning_tour.ipynb)
 
 ## Module 2: Neural Network Advanced Objectives
