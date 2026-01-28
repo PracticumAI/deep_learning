@@ -24,7 +24,7 @@ By the end of this module, you will be able to:
 5.	Use a deep learning pre-trained model to classify an image. 
 6.	Discuss Python AI Frameworks.
 
-* Presentation [01_neural_network_basics.pdf](presentations/01_neural_network_basics.pdf)
+* Presentation [DLF_01_Getting_Started_with_Deep_Learning.pdf](presentations/DLF_01_Getting_Started_with_Deep_Learning.pdf)
 * [Handout](handouts/01_neural_network_basics.pdf)
 * [01_deep_learning_tour.ipynb](01_deep_learning_tour.ipynb)
 
@@ -39,8 +39,8 @@ By the end of this module, you will be able to:
 5.	Describe and simulate image processing in a small neural network.
 6.	Implement and train a perceptron using TensorFlow.
 
-* Presentation [02_neural_network_advanced.pdf](02_neural_network_advanced.pdf)
-* [Handout](02_neural_network_advanced.pdf)
+* Presentation [DLF_02_Deep_Learning_Opening_the_Machine.pdf](presentations/DLF_02_Deep_Learning_Opening_the_Machine.pdf)
+* [Handout](handouts/02_neural_network_advanced.pdf)
 * [02.1_code_a_perceptron.ipynb](02.1_code_a_perceptron.ipynb)
 * [02.2_mnist_classifier.ipynb](02.2_mnist_classifier.ipynb)
 
@@ -52,8 +52,8 @@ By the end of this module, you will be able to:
 3.	Describe optimizers.
 4.	Experiment with hyperparameter tuning.
 
-* Presentation [03_optimization_algorithms.pdf](03_optimization_algorithms.pdf)
-* [Handout](03_optimization_algorithms.pdf)
+* Presentation [DLF_03_How_to_Tune_Your_Models.pdf](presentations/DLF_03_How_to_Tune_Your_Models.pdf)
+* [Handout](handouts/03_optimization_algorithms.pdf)
 * [03_bees_vs_wasps.ipynb](03_bees_vs_wasps.ipynb)
 
 ***
