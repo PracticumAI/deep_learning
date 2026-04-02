@@ -57,7 +57,11 @@ By the end of this module, you will be able to:
 * [03_bees_vs_wasps.ipynb](03_bees_vs_wasps.ipynb)
 
 ***
+### Next Steps
 
+When you feel you're ready for more advanced topics, **[check out our Intermediate series](https://reg.pwd.aa.ufl.edu/search/publicCourseSearchDetails.do?method=load&courseId=19428727&selectedProgramAreaId=1015758&selectedProgramStreamId=1016506&_gl=1*1co5w1p*_gcl_au*MjQ3MDEzMzE0LjE3Njg1OTY0OTkuMTI3MDYwODg2LjE3Njg1OTY1MDcuMTc2ODU5NjUwNw..*_ga*NjkwMTc0MTk0LjE3Mzc4NDg3NzQ.*_ga_QRS76RMM2T*czE3NzUwNzM0MzAkbzEkZzEkdDE3NzUwNzM0MzMkajU3JGwwJGgw*_ga_P8DV6LYX8P*czE3NzUwNzM0MzAkbzEkZzEkdDE3NzUwNzM0MzMkajU3JGwwJGgxMjMxMDI4MjMz)**. In the Intermediate series we take a closer look at such machine learning techniques as Computer Vision and Transfer Learning.
+
+***
 ### Additional Resources
 
 [Lawrence Moroney Video](https://www.youtube.com/watch?v=VwVg9jCtqaU)
